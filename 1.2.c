@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
-
 void main ()
 {
     long int total_pop=80000,total_lit = 48 , men = 52 , lit_men =  35 , ill_men ,women, lit_women,ill_women;
